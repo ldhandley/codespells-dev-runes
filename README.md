@@ -1,3 +1,4 @@
 dev-runes
 =========
-README text here.
+`dev-runes` is a CodeSpells mod! Learn more at https://codespells.org.
+
