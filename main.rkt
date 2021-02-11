@@ -41,6 +41,7 @@
   })()
  }))
 
+;NOT multiplayer-compatible
 (define-classic-rune (spawn-cube)
   #:background "blue"
   #:foreground (square 40 'solid 'red)
